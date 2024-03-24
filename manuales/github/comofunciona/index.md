@@ -8,8 +8,8 @@ Si ya tienes una cuenta, puedes continuar en este camino.
 
 ## Qué es un repositorio
 
-Llamamos _repositorio_ a un lugar, que se podría comparar con una unidad de disco duro o una carpeta principal de un servidor, en definitiva, un lugar de almacenamiento de archivos.
-
+Llamamos _repositorio_ a un lugar que se podría comparar con una unidad de disco duro o una carpeta principal de un servidor. Endefinitiva, un lugar de almacenamiento de archivos.
+ 
 En este _repositorio_ se pueden almacenar todo tipo de archivos, desde carpetas y ficheros sin un orden concreto, un programa completo o un manual como el que estás leyendo ahora mismo, que fue escrito en GitHub antes de ser publicado en la web.
 
 ## Acceder al repositorio de WordPress España
@@ -32,7 +32,8 @@ Con el fin de evitar posibles errores o conflictos **es importante no trabajar n
 
 Crearemos el *fork* pinchando en el último botón que aparece en la parte superior derecha, está rodeado en azul para que puedas localizarlo más fácilmente.
 
-![Realización Fork](https://raw.githubusercontent.com/WPES/spain-handbook/master/manuales/github/assets/ForkCuentaPrincipal.png)
+[Realización Fork] ![Captura de pantalla 2024-03-24 114046](https://github.com/pilargarciaab/spain-handbook/assets/157137447/65193c12-2610-4d55-b9f3-dc19c46cc86d)
+
 
 Después de realizarlo, la ventana cambiará y si nos fijamos en la ruta que se muestra en la parte de arriba a la izquierda ya aparecerá nuestro nombre de usuario, desde este momento cualquier cambio que hagamos en este repositorio, no afectará al repositorio original hasta que no hagamos un *Pull request* (solicitud de revisión) y éste no sea verificado y aprobado.
 
